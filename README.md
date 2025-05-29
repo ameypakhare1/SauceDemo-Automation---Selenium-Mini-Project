@@ -26,7 +26,7 @@ This is a Selenium automation mini project that demonstrates basic login, add-to
 - Navigates to the cart.
 - Performs a mock checkout by filling out the user's information.
 
-## ▶How to Run
+## How to Run
 
 1. Install **Java** and **Selenium WebDriver**.
 2. Download and set up **ChromeDriver**.
